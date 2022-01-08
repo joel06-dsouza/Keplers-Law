@@ -27,12 +27,19 @@ Subtask 1(100 points):
 Original constraints  
 
 Sample Input 1 -
+
 3 
+
 1 1 1 1
+
 1 2 3 4 
+
 1 8 2 8 
 
 Sample Output 1 - 
+
 Yes 
+
 No 
+
 Yes
